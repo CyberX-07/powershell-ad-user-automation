@@ -1,0 +1,5 @@
+Action,FirstName,LastName,Department,CountryCode,EmployeeID,EmployeeNumber,Username,AccountStatus
+Create,John,Smith,IT,US,E1001,9001,jsmith,Enable
+Create,Sarah,Jones,HR,DE,E1002,9002,sjones,Enable
+Modify,John,Smith,HR,SG,E1001,9001,jsmith,Enable
+Delete,,,,,,,sjones,Disable
